@@ -1,0 +1,1 @@
+YuanShen.exe use_mobile_platform -is_cloud 1 -platform_type CLOUD_THIRD_PARTY_MOBILE
