@@ -1,4 +1,4 @@
-# Genshin-PC-Touch
+# Genshin-PC-Touchscreen
 # 原神PC版使用触屏
 ![PixPin_2023-12-13_15-34-45](https://github.com/Omoinemie/Genshin-PC-Touch/assets/31991443/2120131d-27f8-423c-8c54-05bb35026f82)
 
@@ -23,3 +23,4 @@ GenshinImpact.exe use_mobile_platform -is_cloud 1 -platform_type CLOUD_THIRD_PAR
 ```
 "F:\Genshin Impact\Genshin Impact Game\GenshinImpact.exe" use_mobile_platform -is_cloud 1 -platform_type CLOUD_THIRD_PARTY_MOBILE
 ```
+注意，需要先启动launcher.exe，挂在后台，不然会报错。
